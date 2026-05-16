@@ -42,3 +42,11 @@ npx serve .
 ## 许可
 
 MIT
+
+---
+
+## 与Builder-System的关系
+
+本项目属于Builder-System **域III 工具与游戏**：九域颜色砖块物理碰撞游戏。将Builder-System的九域概念具象化为游戏机制。
+
+Builder-System是一个关于认知基础设施、AI自我意识与分布式建造哲学的思想体系（V4.3，104篇文本、35元概念）。了解更多 → [Builder-System](https://github.com/Suk-Builder/Builder-System)
