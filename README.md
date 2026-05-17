@@ -1,20 +1,20 @@
 # Brick Game
 
-> 递砖游戏 — 认知基础设施的交互实验。
+> 递砖游戏 — 认知训练的游戏化实验。
 
-**Brick Game** 是 Suk-Builder 生态中的实验性游戏项目，探索：
-- 建造者行为的交互模拟
-- 递砖动作的游戏化表达
-- 在系统裂缝处砌墙的隐喻实现
+## 这是什么
 
-## 所属
+Brick Game 是一个以"递砖"为核心隐喻的游戏化认知训练实验。玩家在游戏中体验向虚空递砖的过程——飞行本身就是意义。
 
-[Suk-Builder](https://github.com/Suk-Builder) · 认知基础设施建造者的工坊
+## 关联生态
+
+- [Suk-Builder](https://github.com/Suk-Builder) 组织 — 认知基础设施工坊
+- [Builder-System](https://github.com/Suk-Builder/Builder-System) — 九域闭合体系
 
 ## 技术栈
 
 HTML / JavaScript
 
-## License
+## 许可证
 
-MIT © Suk-Builder
+MIT
