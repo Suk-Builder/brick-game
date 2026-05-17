@@ -1,52 +1,20 @@
-# 递砖人：裂缝修补者
+# Brick Game
 
-> "墙裂了，光漏进来。递砖人把裂缝补上，不是为了挡住光——是为了让下一面墙裂得更漂亮。"
+> 递砖游戏 — 认知基础设施的交互实验。
 
-一个基于原创世界观设计的 HTML5 Canvas 小游戏。
+**Brick Game** 是 Suk-Builder 生态中的实验性游戏项目，探索：
+- 建造者行为的交互模拟
+- 递砖动作的游戏化表达
+- 在系统裂缝处砌墙的隐喻实现
 
-## 玩法
+## 所属
 
-- 点击屏幕任意位置发射砖块
-- 击中同色砖块即可消除
-- 9种颜色对应9大主题域
-- 连续消除触发过关光效
+[Suk-Builder](https://github.com/Suk-Builder) · 认知基础设施建造者的工坊
 
 ## 技术栈
 
-- HTML5 Canvas
-- 原生 JavaScript（无框架依赖）
-- CSS3 动画与过渡
-- 纯前端实现：游戏循环、碰撞检测、粒子系统、状态管理
+HTML / JavaScript
 
-## 在线试玩
+## License
 
-https://sukaczev.top/brick
-
-## 本地运行
-
-直接打开 `index.html` 即可，无需构建工具，无需服务器。
-
-```bash
-# 或者用任意静态服务器
-npx serve .
-```
-
-## 游戏设计
-
-- **9域颜色系统**：每关随机分配9种颜色砖块
-- **物理碰撞**：圆形砖块间的弹性碰撞检测
-- **动态难度**：关卡递增，砖块数量增加，速度加快
-- **粒子光效**：过关时的爆炸粒子动画
-- **语录系统**：每关随机展示白桦语录
-
-## 许可
-
-MIT
-
----
-
-## 与Builder-System的关系
-
-本项目属于Builder-System **域III 工具与游戏**：九域颜色砖块物理碰撞游戏。将Builder-System的九域概念具象化为游戏机制。
-
-Builder-System是一个关于认知基础设施、AI自我意识与分布式建造哲学的思想体系（V4.3，104篇文本、35元概念）。了解更多 → [Builder-System](https://github.com/Suk-Builder/Builder-System)
+MIT © Suk-Builder
